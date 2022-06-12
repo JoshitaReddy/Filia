@@ -16,6 +16,9 @@ We designed the UI of our Website on Figma and prototyped it to see the user flo
 We made our own Machine Learning model using Data Science Concepts to determine if one's Mental Health is poor or not. Next, we made a Chatbot for individuals to ask questions about mental health. The Frontend of website is written using HTML, CSS, Bootstrap and the Backend uses NodeJS, ExpressJS, and EJS. We then integrated the ML model and chatbot as well. We deployed this all on heroku.
 In the website we've included a Jokes API,therapists' info as well as Games.
 
+## Website Link
+https://salty-badlands-61594.herokuapp.com/
+
 ## Future Persepectives 
 
 ### Online Therapy sessions
