@@ -1,0 +1,168 @@
+body {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  body {
+    display: -ms-flexbox;
+    /* display: flex; */
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    /* padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5; */
+  }
+  
+  .rectangle-box {
+    box-sizing: border-box;
+  
+    position: absolute;
+    
+    width: 1000px;
+    height: 520px;
+    left: 270px;
+    top: 230px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+  
+    background: #e6ecff;
+    border: 2px solid #000000;
+    border-radius: 24px;
+  }
+  
+  .head2 {
+    position: relative;
+    width: 50%;
+    text-align: justify;
+    margin: 0 auto 0 auto;
+  }
+  
+  h2 {
+    z-index: 2;
+  }
+  
+  .h3 {
+    margin-left: 10rem;
+  }
+  
+  #title {
+    background-color: white;
+    height: 45rem;
+    /* position: relative; */
+    /* z-index: -1; */
+  }
+  
+  h1 {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 900;
+    font-size: 3em;
+    line-height: 1.5;
+  }
+  
+  .containerfluid {
+    padding: 3% 15% 3%;
+    color: black;
+  }
+  
+  
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  .navbar-brand {
+    font-family: "Exo 2";
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-left: 40px;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: black;
+  }
+  
+  .navbar-dark .navbar-brand {
+    color: black;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  
+  h2 {
+    font-family: "Montserrat", sans-serif;
+    /* font-weight: bold; */
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  #section2
+  {
+      margin-top: 200px;
+  }
+  
+  .images1
+  {
+      /* position: relative; */
+      padding: 5%;
+     
+  }
+  
+  .head2
+  {
+      position: relative;
+      width: 50%;
+      text-align: justify;
+      margin: 0 auto 0 auto;
+  }
+  
+  h2
+  {
+      z-index: 2;
+  }
+  
+
+.joke1
+{
+  padding: 5%;
+  margin-top: 10px;
+  background-color: #B6EAFC;
+}
+.joke2
+{
+  padding: 5%;
+  margin-top: 10px;
+  background-color: #F6D7FC;
+}
+.joke3
+{
+  padding: 5%;
+  margin-top: 10px;
+  background-color: #FDE4E8;
+}
+.joke4
+{
+  padding: 5%;
+  margin-top: 10px;
+  background-color: #C0D8FC;
+}
+.joke5
+{
+  padding: 5%;
+  margin-top: 10px;
+  background-color: #FDE7BC;
+}
+.joke6
+{
+  padding: 5%;
+  margin-top: 10px;
+  background-color: #C8EDDC;
+}
+.container-fluid-2
+{
+  padding: 3% 15%;
+}

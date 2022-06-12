@@ -1,0 +1,17 @@
+{
+  "name": "hydrahack",
+  "version": "1.0.0",
+  "description": "A project on mental health that includes a game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keerthika Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}

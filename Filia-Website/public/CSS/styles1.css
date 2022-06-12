@@ -1,0 +1,205 @@
+h1
+{
+  font-family: "Exo 2";
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h2
+{ 
+  font-family: "Exo 2";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3
+{
+  font-family: "Exo 2";
+  font-size: 1.5rem;
+
+}
+hr
+{
+  border: 2px solid grey;
+  width: 50%;
+  margin: auto;
+}
+#title
+{
+  background-color: white;
+  height: 55rem;
+}
+.ppl-img
+{
+  width: 70%;
+  position: relative;
+  right: 150px;
+}
+.Title-filia
+{
+  position: relative;
+  margin-top: 20%;
+  right: 120px;
+  font-size: 6rem;
+}
+.tag-line
+{
+  text-align: center;
+  position: relative;
+  margin-top: 5%;
+  right: 255px;
+  font-size: 1.5rem;
+}
+
+.container-fluid
+{
+   padding: 3% 15% 3%; 
+   
+}
+
+
+.navbar
+{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand
+{
+    font-family: 'Exo 2';
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar-dark .navbar-brand {
+    color: black;
+}
+
+.nav-item
+{
+    padding: 0 18px;
+}
+
+.nav-link
+{
+    font-size: 1.2rem;
+}
+
+.circle1-img
+{
+  width:38%;
+  margin-top: 20%;
+}
+.circle2-img
+{
+  position: absolute;
+  top: 25rem;
+  right:0;
+  width:10%;
+  margin-top: 20%;
+}
+.circle3-img
+{
+  top:57rem;
+  position: absolute;
+  width:15%;
+  margin-top: 20%;
+}
+.circle4-img
+{
+  top:107rem;
+  right:0;
+  position: absolute;
+  width:10%;
+  margin-top: 20%;
+}
+#about-us
+{
+  padding: 5% 15%;
+  text-align: center;
+  height: 33rem;
+}
+
+#mental-health
+{
+  text-align: center;
+  color: black;
+  height: 83rem;
+}
+/* .evaluate-btn
+{
+  width: 30%;
+  height: 50%;
+  margin-top: 45%;
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: 'Exo 2';
+  color: #000000;
+  font-size: 16px;
+  background: #E6ECFF;
+  padding: 10px 20px 10px 20px;
+  border: solid #2980B9 1px;
+  text-decoration: none;
+} */
+.btn
+{
+  margin-top: 190px;
+    
+    margin-left: 20rem;
+    width: 400px;
+    /* background-color: #FFD9D4; */
+    color: black;
+    height: 90px;
+}
+
+.btn1
+{
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.person_dog_img
+{
+  margin-top: 10%;
+  width: 60%;
+}
+
+.gameimg
+{
+  position:relative;
+  top: 20px;
+  margin-bottom: 15px;
+}
+.pride
+{
+  margin-top: 5%;
+  text-align: center;
+  background: linear-gradient(180deg, #FED6D6 0%, #FAFFAF 24.79%, #C0FFB6 50.31%, #D0DDFF 75.31%, #E1BEFE 100%);
+  padding: 5%;
+}
+#footer
+{
+  text-align: center;
+  padding: 5%;
+}
+.footer-icon
+{
+  padding: 1%;
+  padding-bottom: 1.5%;
+}
+
+.abtus
+{
+  margin-top: 50px;
+  font-size: 1.5rem;
+  text-align: justify;
+  max-width: 800px;
+  position: relative;
+  left: 120px;
+}
+
+#section2
+{
+  margin-top:200px
+}
